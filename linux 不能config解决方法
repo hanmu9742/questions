@@ -1,0 +1,3 @@
+输入’ifconfig’命令后的问题。
+
+解决方法：按提示输入sudo apt install net-tools安装，问题解决。
